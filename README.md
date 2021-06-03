@@ -8,13 +8,13 @@ PART 1
 
  1.Programming foundations :
 
-  1.learning basics of python
+    1.learning basics of python
 
-  2.object oriented python --> to learn in how many ways the flow of data can be modified
+    2.object oriented python --> to learn in how many ways the flow of data can be modified
 
-  3.desgin patterns and their uses in python - common patterns for daily use cases
+    3.desgin patterns and their uses in python - common patterns for daily use cases
  
-  4.solving data structures and algorithms - how to store, search, query, operate data 
+    4.solving data structures and algorithms - how to store, search, query, operate data 
  
 PART 2 :
 
