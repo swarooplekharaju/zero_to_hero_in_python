@@ -83,10 +83,30 @@ PART 1 :
                    value = list(map(lambda x: x(i), funcs))
                    
                    
+   ![image](https://user-images.githubusercontent.com/45656883/123588887-12b22400-d806-11eb-8fa3-92ae1a7392ef.png)
+                
                    
                    
-                   
-                   
+               CHAPTER 2 : UNDERSTANDING FILTER : 
+                              filter takes an input conditional function and a iterator 
+                              fiter checks the value and returns if the condition is truee 
+                              filter is an another way or functional or lambda way of writing an list comprehension 
+                              
+                              example  :
+                               list(filter(lambda x :x>3 ,[1,2,3,4]
+                               output is : 3,4 
+               CHAPTER 3 : UNDERSTANDING REDUCE :
+                          the main advantage of taking reduce is it performs operations on adjacent items in the list 
+                          and reduces to a single value 
+                          like adding all the items in the list to one 
+                          or square and add all the items to 1 
+                          it means like finally use the arithematic operation to get into 1
+               
+   ![image](https://user-images.githubusercontent.com/45656883/123597516-0ed7cf00-d811-11eb-8de9-db7ae06c8c7d.png)
+
+                       
+                              
+                              
 
 
 
