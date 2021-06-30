@@ -106,7 +106,27 @@ PART 1 :
 
                        
                               
-                              
+              CHAPTER 4 : UNDERSTANDIN GLOBALS 
+                IN THIS CHAPTER WE WILL SEE THE USES AND APPLICATIONS OF GLOBLAS 
+                understanding global keyword 
+                when the variable of the larger scope is used inside a function or lesser scope 
+                we use global 
+                global keyword at the larger scope is not valubale /no use 
+                
+                we can create a config.py and store all the global variables inside the file and access them 
+                
+                NOTE : 
+                 GLOBAL VARIABLES are the values where variable names and values are initially defined 
+                 they are mutable and can be modified in terms of value .
+                 
+                 you can see the following example 
+                 config.a is a global value in the config.py module 
+                 but it is accesed and modified in the other module 
+                 so lets be clear , global values can be modified [ keyword is global]
+                
+                    
+
+![image](https://user-images.githubusercontent.com/45656883/123957616-a08a3c80-d9c9-11eb-872a-19f5745058bd.png)
 
 
 
