@@ -129,6 +129,27 @@ PART 1 :
 ![image](https://user-images.githubusercontent.com/45656883/123957616-a08a3c80-d9c9-11eb-872a-19f5745058bd.png)
 
 
+                 globals part  2 : how the scope of global works 
+                 
+                 a normal variable x inside any function is a local variable 
+                 a normal variable inside inner/nested function is non local variable 
+                 a variable with bigscore/ out of any functions in module is a gloabal variable
+                 if a variable is declared as gloabal , it does two things 
+                   1. if  global variable is not there it creates the gloabal variable 
+                   2. if a gloabal variable is there it connects with the global variable and we can perform actions 
+                   
+                 in the following code 
+                   we dont have gloabal variable x 
+                   we have only local variable x --> because x is declared only inside a main_function 
+                   in the inner_function we declared a new global variable 
+                     -- > which means that global x is differnt and local x is different 
+                  
+   ![image](https://user-images.githubusercontent.com/45656883/123959791-2e672700-d9cc-11eb-9f86-c7f8fbee3272.png)
+
+                 
+                  
+
+
 
     
 PART 2 :
